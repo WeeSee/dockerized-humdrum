@@ -17,6 +17,13 @@ You need preinstalled
 
 * Docker
 
+and 
+
+* Docker Compose
+* Make
+
+for even more ease of use (see below).
+
 # Usage 
 
 Directly execute Humdrum commands. When executing the first time the 
