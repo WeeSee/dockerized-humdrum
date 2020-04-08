@@ -30,7 +30,7 @@ Directly execute Humdrum commands.
 
 Let's take a sample from J.S. Bach Die Kunst der Fuge:
 
-[J.S. Bach Die Kunst der Fuge](bach.gif)
+![J.S. Bach Die Kunst der Fuge](bach.gif)
 
 This reads in Humdrum **kern format like (see the file```bach.krn```) as:
 
