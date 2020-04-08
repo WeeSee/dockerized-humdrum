@@ -76,7 +76,7 @@ In the Docker image there are installed
 
 # Usage with make and docker-compose
 
-Start with cloning [this repo]/https://github.com/WeeSee/dockerized-humdrum):
+Start with cloning [this repo](https://github.com/WeeSee/dockerized-humdrum):
 
     > git clone https://github.com/WeeSee/dockerized-humdrum
 
