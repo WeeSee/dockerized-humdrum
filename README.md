@@ -7,6 +7,7 @@ Humdrum Docker Image
 This Docker image is intended for easy use of [Humdrum](https://www.humdrum.org).
 
 The repo for this image is [on Github](https://github.com/WeeSee/dockerized-humdrum).
+Prebuild Docker images are available on [Dockerhub](https://hub.docker.com/r/weesee/humdrum).
 
 Humdrum is a set of command-line tools that facilitates musical analysis, as well as a generalized syntax for representing sequential streams of data.
 
