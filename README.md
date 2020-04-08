@@ -2,9 +2,10 @@ Humdrum Docker Image
 ====================
 
 This Docker image is intended for easy use of [Humdrum](https://www.humdrum.org). 
+
 Installation of Humdrum tools on the Host system is not required.
 
-Thee are Humdrum music samples included in the image from Chopin, Joplin, Bach, Haydn, Hummel, Mozart, Scarlatti, Beethoven, ...
+There are Humdrum music samples included in the image from Chopin, Joplin, Bach, Haydn, Hummel, Mozart, Scarlatti, Beethoven, ...
 
 Have frun using Humdum!
 
@@ -75,9 +76,9 @@ In the Docker image there are installed
 
 # Usage with make and docker-compose
 
-Start with cloning this repo:
+Start with cloning [this repo]/https://github.com/WeeSee/dockerized-humdrum):
 
-    > git clone ...
+    > git clone https://github.com/WeeSee/dockerized-humdrum
 
 This tools help using Humdrum even simpler. Now start playing with Humdrum:
 
