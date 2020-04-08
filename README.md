@@ -32,7 +32,7 @@ Let's take a sample from J.S. Bach Die Kunst der Fuge:
 
 ![J.S. Bach Die Kunst der Fuge](bach.gif)
 
-This reads in Humdrum **kern format like (see the file```bach.krn```) as:
+This reads in Humdrum ```**kern``` format (see the file```bach.krn```) as:
 
 ```
 **kern
@@ -56,7 +56,7 @@ This reads in Humdrum **kern format like (see the file```bach.krn```) as:
 ```
 
 
-When executing the command for the first time the Docker image is being pulled from Dockerhub
+When executing the command for the first time the Docker image is being pulled from Dockerhub. The Humdrum command here is ```census -k``` for performing basic analysis of a Humdrum input:
 
     > cat bach.krn | docker run weesee/humdrum census -k
 
