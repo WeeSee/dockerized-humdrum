@@ -26,10 +26,42 @@ for even more ease of use (see below).
 
 # Usage 
 
-Directly execute Humdrum commands. When executing the first time the 
-Docker image is being pulled from Dockerhub
+Directly execute Humdrum commands. 
+
+Let's take a sample from J.S. Bach Die Kunst der Fuge:
+
+[J.S. Bach Die Kunst der Fuge](bach.gif)
+
+This reads in Humdrum **kern format like (see the file```bach.krn```) as:
+
+```
+**kern
+*clefG2
+*k[b-]
+*M2/2
+=-
+2d/
+2a/
+=
+2f/
+2d/
+=
+2c#/
+4d/
+4e/
+=
+2f/
+2r
+*-
+```
+
+
+When executing the command for the first time the Docker image is being pulled from Dockerhub
 
     > cat bach.krn | docker run weesee/humdrum census -k
+
+
+
 
 The output should be something like
 
