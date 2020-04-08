@@ -1,9 +1,11 @@
 Humdrum Docker Image
 ====================
 
-This Docker image is intended for easy use of [Humdrum](https://www.humdrum.org). 
+This Docker image is intended for easy use of [Humdrum](https://www.humdrum.org).
 
-Installation of Humdrum tools on the Host system is not required.
+Humdrum is a set of command-line tools that facilitates musical analysis, as well as a generalized syntax for representing sequential streams of data.
+
+Installation of Humdrum tools on the Docker host is not required.
 
 There are Humdrum music samples included in the image from Chopin, Joplin, Bach, Haydn, Hummel, Mozart, Scarlatti, Beethoven, ...
 
