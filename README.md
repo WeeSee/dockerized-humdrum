@@ -1,6 +1,9 @@
 Humdrum Docker Image
 ====================
 
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/weesee/dockerized-humdrum) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/weesee/humdrum) ![Docker Pulls](https://img.shields.io/docker/pulls/weesee/humdrum) ![GitHub issues](https://img.shields.io/github/issues/weesee/dockerized-humdrum) 
+
+
 This Docker image is intended for easy use of [Humdrum](https://www.humdrum.org).
 
 Humdrum is a set of command-line tools that facilitates musical analysis, as well as a generalized syntax for representing sequential streams of data.
@@ -30,7 +33,7 @@ Directly execute Humdrum commands.
 
 Let's take a sample from J.S. Bach Die Kunst der Fuge:
 
-![J.S. Bach Die Kunst der Fuge](bach.gif)
+![J.S. Bach Die Kunst der Fuge](https://github.com/WeeSee/dockerized-humdrum/blob/master/bach.gif)
 
 This reads in Humdrum ```**kern``` format (see the file```bach.krn```) as:
 
