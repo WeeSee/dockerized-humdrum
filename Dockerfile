@@ -19,8 +19,6 @@ RUN  apt-get update \
 RUN adduser --disabled-password --gecos '' --home /app --shell /bin/bash humdrummy 
 USER humdrummy
 WORKDIR /app
-# WORKDIR /root
-
 
 ENV PATH="/app/humdrum-tools/humdrum/bin:/app/humdrum-tools/humextra/bin:${PATH}"
 RUN echo 'export PATH=/app/humdrum-tools/humdrum/bin:$PATH' >> ~/.profile \
@@ -36,9 +34,6 @@ RUN cd humdrum-tools \
     && make regression \
     && make data \
     && make doc  
-
-# RUN apk del \
-#         build-deps
 
 ENTRYPOINT [ "/bin/bash", "-c" ]
 CMD [ "/bin/bash" ]
