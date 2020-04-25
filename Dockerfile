@@ -1,5 +1,7 @@
 FROM ubuntu:19.10
 
+LABEL maintainer="weesee@web.de"
+
 RUN  apt-get update \
     && apt-get install -y \
         software-properties-common \
