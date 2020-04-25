@@ -19,9 +19,13 @@ Have frun using Humdum!
 
 # CHANGELOG
 
-v0.2 
+v0.3 
 
 * New: Shifted to Ubuntu 19.10
+
+v0.2
+
+* Fix: Makefile, remove waste from Alpine-Image
 
 v0.1
 
