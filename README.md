@@ -17,6 +17,16 @@ There are Humdrum music samples included in the image from Chopin, Joplin, Bach,
 
 Have frun using Humdum!
 
+# CHANGELOG
+
+v0.2 
+
+* New: Shifted to Ubuntu 19.10
+
+v0.1
+
+* initial release based on Ubuntu 18.04
+
 # Prerequisites
 
 You need preinstalled
