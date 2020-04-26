@@ -19,6 +19,10 @@ Have frun using Humdum!
 
 # CHANGELOG
 
+v0.4 
+
+* New: Shifted to Ubuntu 20.04
+
 v0.3 
 
 * New: Shifted to Ubuntu 19.10
