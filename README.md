@@ -1,7 +1,7 @@
 Humdrum Docker Image
 ====================
 
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/weesee/humdrum) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/weesee/humdrum) ![Docker Pulls](https://img.shields.io/docker/pulls/weesee/humdrum) ![GitHub issues](https://img.shields.io/github/issues/weesee/dockerized-humdrum) 
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/weesee/humdrum) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/weesee/humdrum) ![Docker Pulls](https://img.shields.io/docker/pulls/weesee/humdrum) ![GitHub issues](https://img.shields.io/github/issues/weesee/dockerized-humdrum)  [![Publish Docker image](https://github.com/WeeSee/dockerized-humdrum/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/WeeSee/dockerized-humdrum/actions/workflows/docker-publish.yml)
 
 
 This Docker image is intended for easy use of [Humdrum](https://www.humdrum.org).
